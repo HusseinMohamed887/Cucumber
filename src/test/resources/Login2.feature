@@ -16,7 +16,7 @@
 #""
 ## (Comments)
 #Sample Feature Definition Template
-@tag
+@hello
 Feature: Login Functionality
   In order to do internet banking
   As a valid Para bank customer
